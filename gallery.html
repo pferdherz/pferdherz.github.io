@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>galerie - Mirco Kocher</title>
+        <meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+        <meta name="theme-color" content="#ffffff">
+	    <script src="gallery.js"></script>
+	    <script src="imgs/gallery/pics.js"></script>
+	    <script src="txt/gallery.js"></script>
+	</head>
+	<body>
+		<div class="header"></div>
+		<div class="container">
+			<ul class="navbar">
+				<li><a class="navbar-nav" href="https://pferdherz.github.io">Home</a></li>
+				<li><a class="navbar-nav" href="https://pferdherz.github.io/news.html">Aktuelles</a></li>
+				<li><a class="navbar-nav" href="https://pferdherz.github.io/rahel.html">Rahel</a></li>
+				<li><a class="navbar-nav" href="https://pferdherz.github.io/laura.html">Laura</a></li>
+				<li><a class="navbar-now" href="https://pferdherz.github.io/gallery.html">Galerie</a></li>
+				<li><a class="navbar-nav" href="https://pferdherz.github.io/contact.html">Kontakt</a></li>
+			</ul>
+			<div class="main">
+				<h1><script>document.write(gallery_titel);</script></h1>
+				<p>
+					<script>document.write(gallery_text1);</script>
+				</p>
+				<div>
+					<div class="row">
+						<script>
+						for (i = 0; i < pics.length; i++) {
+							document.write("<div class=\"column\"><img src=\"imgs/gallery/img_" + pics[i].toLowerCase() + ".jpg\" style=\"width:100%\" alt=\"" + pics[i] + "\" onclick=\"myFunction(this);\"></div>");
+						}
+						</script>
+					</div>
+					<div class="expandingContainer">
+					  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+					  <img id="expandedImg" style="width:100%">
+					  <div id="imgtext"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

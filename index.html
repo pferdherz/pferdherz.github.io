@@ -6,6 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
         <meta name="theme-color" content="#ffffff">
 	    <script src="txt/home.js"></script>
+	    <script src="imgs/home/pics.js"></script>
 	</head>
 	<body>
 		<div class="header"></div>
@@ -19,10 +20,34 @@
 				<li><a class="navbar-nav" href="https://pferdherz.github.io/contact.html">Kontakt</a></li>
 			</ul>
 			<div class="main">
-				<h1><script>document.write(home_titel);</script></h1>
+				<div class="home_center">
+				<h1>
+					<script>document.write(home_titel);</script>
+				</h1>
 				<p>
 					<script>document.write(home_text1);</script>
 				</p>
+					<script>
+						document.write("<img class=\"home_center_pic\" src=\"imgs/home/" + home_center_pic + ".jpg\" alt=\"" + home_center_pic + "\">");
+					</script>
+				</div>
+				<br><br><br><br>
+				<div class="home_two_person">
+					<div class="home_person" style="float: left">
+						<script>
+							document.write("<img class=\"home_person_pic\" src=\"imgs/home/" + home_rahel_pic + ".jpg\" alt=\"" + home_rahel_pic + "\">");
+						</script>
+						<br>
+						<script>document.write(home_rahel_text1);</script>
+					</div>
+					<div class="home_person" style="float: right">
+						<script>
+							document.write("<img class=\"home_person_pic\" src=\"imgs/home/" + home_laura_pic + ".jpg\" alt=\"" + home_laura_pic + "\">");
+						</script>
+						<br>
+						<script>document.write(home_laura_text1);</script>
+					</div>
+				</div>
 			</div>
 		</div>
 	</body>

@@ -1,2 +1,2 @@
 
-var pics = ["Nature", "Snow", "Mountains", "Lights"];
+var pics = ["Lights", "Mountains", "Nature", "Ocean", "Paris", "Rocks", "Skies", "Ocean", "Snow", "Water"];

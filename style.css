@@ -35,7 +35,7 @@ html, body {
 	text-align: center;
 	font-size: 18px;
 	color: #034169;
-  margin-top: 50px;
+	margin-top: 50px;
 }
 
 .navbar a {
@@ -68,6 +68,10 @@ a {
 	border-bottom: 1px dotted;
 }
 
+h1 {
+	color: #034169;
+}
+
 .home_center {
 	text-align: center;
 }
@@ -77,15 +81,27 @@ a {
 	max-width: 100%;
 }
 
-.home_person {
+.half_right {
 	width: 50%;
+	float: right;
 }
+
+.half_left {
+	width: 50%;
+	float: left;
+}
+
 
 .home_person_pic {
 	width:50%;
 	float:left;
 	border-radius:50%;
-  margin-right: 10px;
+	margin-right: 10px;
+}
+
+.contact_person_pic {
+	width:50%;
+	border-radius:10%;
 }
 
 

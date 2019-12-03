@@ -79,6 +79,7 @@ h1 {
 .home_center_pic {
 	max-height: 500px;
 	max-width: 100%;
+	border-radius: 3%;
 }
 
 .half_right {
@@ -104,7 +105,24 @@ h1 {
 	border-radius:10%;
 }
 
+.four_columns {
+  float: left;
+  width: 22%;
+  margin: 1%;
+}
 
+
+.row_four_columns:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.icons {
+	max-width: 100%;
+	max-height: 100px;
+	border-radius: 10%;
+}
 
 /* The grid: Four equal columns that floats next to each other */
 .column {

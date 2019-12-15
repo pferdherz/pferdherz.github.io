@@ -13,6 +13,8 @@ var rahel_column1_text3 = "Duis aute irure dolor in reprehenderit in voluptate v
 
 var rahel_column1_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
+var rahel_column1_text5 = "";
+
 var rahel_column2_titel = "Heil Reiten";
 
 var rahel_column2_text1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
@@ -22,6 +24,8 @@ var rahel_column2_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ul
 var rahel_column2_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
 
 var rahel_column2_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+
+var rahel_column2_text5 = "";
 
 var rahel_column3_titel = "Kinder";
 
@@ -33,6 +37,8 @@ var rahel_column3_text3 = "Duis aute irure dolor in reprehenderit in voluptate v
 
 var rahel_column3_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
+var rahel_column3_text5 = "";
+
 var rahel_column4_titel = "Erlebnis";
 
 var rahel_column4_text1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
@@ -42,3 +48,5 @@ var rahel_column4_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ul
 var rahel_column4_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur";
 
 var rahel_column4_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+
+var rahel_column4_text5 = "";

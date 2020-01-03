@@ -4,7 +4,7 @@ var news_titel = "Aktuelles";
 var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittagen, Preislisten und weitere News.";
 var news_column1_titel = "J&S Kurse";
 
-var news_column1_text1 = "Ihr Kind lernt spielerisch das Pferd kennen. Dabei lernen wir, wie das Pferd richtig gepflegt wird.
+var news_column1_text1 = "Ihr Kind lernt spielerisch das Pferd kennen. Dabei lernen wir, wie das Pferd richtig gepflegt wird, wie man ein Pferd führt und reitet. Dabei lernen wir das Reiten auf dem Platz, das Voltigieren aber auch das Reiten im Gelände kennen.";
 var news_column1_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
 
 var news_column1_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";

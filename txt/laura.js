@@ -1,8 +1,7 @@
 
 var laura_titel = "Laura";
 
-var laura_text1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
-
+var laura_text1 = " ";
 var laura_column1_titel = "Über mich";
 
 var laura_column1_text1 = "Vereinstrainerin C SWRA<br>J&S Leiterin B<br>SURE FOOT <sup>&reg;</sup> Professional";
@@ -17,7 +16,7 @@ var laura_column1_text5 = "";
 
 var laura_column2_titel = "Reitunterricht";
 
-var laura_column2_text1 = "Basisarbeit, Losgelassenheit<br>Stangenarbeit<br>Trail<br>Sitzschulung<br>";
+var laura_column2_text1 = "Grundausbildung<br>Stangenarbeit<br>Trail<br>Sitzschulung<br>";
 
 var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise. Ich unterstütze Sie Reitweise- und Rassenunabhängig.<br>Dabei lege ich Wert auf die gegenseitige Kommunikation.<br>Wo will man hin?<br>Was sind die Ziele?<br>Wie können wir diese erreichen?<br>Durch abwechslungsreiches, pferdegerechtes Training wird das Reiten und die Technik verbessert.<br>Durch gezielte Übungen, Stangenarbeit und Sitzschulung soll das eigene Können verbessert werden und auch allein angewendet werden können.";
 
@@ -29,7 +28,7 @@ var laura_column2_text5 = "";
 
 var laura_column3_titel = "Bodenarbeit";
 
-var laura_column3_text1 = "Longieren<br>Bodenschule<br>Bodenarbeit";
+var laura_column3_text1 = "Longieren<br>Bodenarbeit<br>Bodenschule";
 
 var laura_column3_text2 = "Bodenarbeit fördert das Vertrauen, das gegenseitige Verständnis und ist eine wichtige Abwechslung zum Reiten.";
 

@@ -32,7 +32,7 @@ var laura_column3_text1 = "Longieren<br>Bodenarbeit<br>Bodenschule";
 
 var laura_column3_text2 = "Bodenarbeit fördert das Vertrauen, das gegenseitige Verständnis und ist eine wichtige Abwechslung zum Reiten.";
 
-var laura_column3_text3 = "Zu meinen Bodenarbeitangebot gehört:<br> <br>- Longieren <br>- verbesserte Kommunikation <br>- Bodenschule <br>- Showmanship <br>- Stangenarbeit <br>- Trail-, Gymkhanaübungen vom Boden";
+var laura_column3_text3 = "Zu meinen Bodenarbeitangebot gehört: <br>- Longieren <br>- verbesserte Kommunikation <br>- Bodenschule <br>- Showmanship <br>- Stangenarbeit <br>- Trail-, Gymkhanaübungen        vom Boden";
 var laura_column3_text4 = " ";
 var laura_column3_text5 = "Geeignet für den Youngster bis zum Oldie!";
 var laura_column4_titel = "SURE FOOT <sup>&reg;</sup>";

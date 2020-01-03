@@ -7,11 +7,11 @@ var laura_column1_titel = "Über mich";
 
 var laura_column1_text1 = "Vereinstrainerin C SWRA<br>J&S Leiterin B<br>SURE FOOT <sup>&reg;</sup> Professional";
 
-var laura_column1_text2 = "Seit ich 10 Jahre bin ich vom Pferdevirus befallen. Wie die meisten fing ich mit der klassischen Reitweise an und absolvierte das Brevet der englischen Reitweise. Danach macht ich lange das Gelände mit einer tollen Freiberger-Reitbeteiligung unsicher. Schliesslich entschloss ich mich zu einem 1.5-jährigen Praktikum im  Reitbetrieb von Carmen Spinas, wo ich neben dem Springen vor allem das Westernreiten und die Turnierszene kennen lernte. Nach diesem Praktikum startete die Vereinstrainerausbildung und J&S Leiter Ausbildung, welche ich drei Jahre später erfolgreich abschloss. Seit dieser Zeit bilde ich mich in verschiedenen Sparten regelmässig weiter, stets mit offenen Augen für ein besseres und gesundes Miteinander für Mensch und Tier.";
+var laura_column1_text2 = "Seit ich 10 Jahre alt bin ich vom Pferdevirus befallen. Wie die meisten fing ich mit der klassischen Reitweise an und absolvierte das Brevet der englischen Reitweise. Danach macht ich lange das Gelände mit einer tollen Freiberger-Reitbeteiligung unsicher. Schliesslich entschloss ich mich zu einem 1.5-jährigen Praktikum im  Reitbetrieb von Carmen Spinas, wo ich neben dem Springen vor allem das Westernreiten und die Turnierszene kennen lernte. Nach diesem Praktikum startete die Vereinstrainerausbildung und J&S Leiter Ausbildung, welche ich drei Jahre später erfolgreich abschloss. Seit dieser Zeit bilde ich mich in verschiedenen Sparten regelmässig weiter, stets mit offenen Augen für ein besseres und gesundes Miteinander für Mensch und Tier.";
 
-var laura_column1_text3 = "Wichtige Trainer/innen in meiner Laufbahn";
+var laura_column1_text3 = " ";
 
-var laura_column1_text4 = "- Carmen Spinas<br>- Madeleine Häberlin<br>- Oliver Fasel<br>- Martin Volesky";
+var laura_column1_text4 = " ";
 
 var laura_column1_text5 = "";
 

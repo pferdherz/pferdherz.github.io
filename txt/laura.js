@@ -18,9 +18,9 @@ var laura_column2_titel = "Reitunterricht";
 
 var laura_column2_text1 = "Grundausbildung<br>Stangenarbeit<br>Trail<br>Sitzschulung<br>";
 
-var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise. Ich unterstütze Sie Reitweise- und Rassenunabhängig.<br>Dabei lege ich Wert auf die gegenseitige Kommunikation.<br>Wo will man hin?<br>Was sind die Ziele?<br>Wie können wir diese erreichen?<br>Durch abwechslungsreiches, pferdegerechtes Training wird das Reiten und die Technik verbessert.<br>Durch gezielte Übungen, Stangenarbeit und Sitzschulung soll das eigene Können verbessert werden und auch allein angewendet werden können.";
+var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise, ich unterstüzte Sie gerne Reitweise- und Rassenunabhängig.<br>"; "Ich helfe gerne <br>-bei der Grundausbildung <br>-bei Stangenarbeit <br>-dabei, mehr Abwechslungs in die Hallenarbeit zu bringen <br>-bei Rittigkeitsproblemen <br>-bei Muskelaufbau.
 
-var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship, Ranch Riding und Pleasure Training von den Anfängen bis zum 1. Turnierstart an.";
+var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship und Gymkhana Trainings von den Anfängen bis zum 1. Turnierstart an.";
 
 var laura_column2_text4 = "";
 

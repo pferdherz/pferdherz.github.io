@@ -5,7 +5,7 @@ var rahel_text1 = "Diese Seite befindet sich im Aufbau.";
 
 var rahel_column1_titel = "Über mich";
 
-var rahel_column1_text1 = " ";
+var rahel_column1_text1 = "Die Rubrik befindet sich im Aufbau";
 
 var rahel_column1_text2 = " ";
 
@@ -17,7 +17,7 @@ var rahel_column1_text5 = "";
 
 var rahel_column2_titel = "Kinderreitstunden";
 
-var rahel_column2_text1 = " ";
+var rahel_column2_text1 = "Diese Rubrik befindet sich im Aufbau";
 
 var rahel_column2_text2 = " ";
 

@@ -13,7 +13,7 @@ var news_column1_text4 = " ";
 
 var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "Zur Zeit sind keine weitere Kinderreittage geplant. Wir halten Sie auf den Laufenden";
+var news_column2_text1 = "Zur Zeit sind keine weitere Kinderreittage geplant. Wir halten Sie auf den Laufenden.";
 var news_column2_text2 = " ";
 
 var news_column2_text3 = " ";

@@ -18,9 +18,9 @@ var laura_column2_titel = "Reitunterricht";
 
 var laura_column2_text1 = "Grundausbildung<br>Stangenarbeit<br>Trail<br>Sitzschulung<br>";
 
-var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise, ich unterstüzte Sie gerne Reitweise- und Rassenunabhängig.<br>"; "Ich helfe gerne <br>-bei der Grundausbildung <br>-bei Stangenarbeit <br>-dabei, mehr Abwechslungs in die Hallenarbeit zu bringen <br>-bei Rittigkeitsproblemen <br>-bei Muskelaufbau.";
+var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise, ich unterstüzte Sie gerne Reitweise- und Rassenunabhängig.<br> Ich helfe Ihnen gerne <br>- bei der Grundausbildung von Pferd und Reiter <br>- dabei, mehr Abwechslung in die Hallenarbeit zu bringen <br>- bei Rittigkeitsproblemen <br>-beim Muskelaufbau <br>- bei Stangenarbeit";
 
-var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship und Gymkhana Trainings von den Anfängen bis zum 1. Turnierstart an.";
+var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship und Gymkhana Trainings von den Anfängen bis zum ersten Turnierstart an.";
 
 var laura_column2_text4 = "";
 
@@ -32,12 +32,9 @@ var laura_column3_text1 = "Longieren<br>Bodenarbeit<br>Bodenschule";
 
 var laura_column3_text2 = "Bodenarbeit fördert das Vertrauen, das gegenseitige Verständnis und ist eine wichtige Abwechslung zum Reiten.";
 
-var laura_column3_text3 = "Zusammen können wir das korrekte Longieren mit der korrekten Hilfegebung und Sinn und Unsinn von Hilfsmittel erlernen und dabei das Pferd vielseitig fördern und fordern.";
-
-var laura_column3_text4 = "Oder wir lernen die Bodenschule kennen, wie es neu in den Attesten und Brevets verlangt wird und verfeinern die Kommunikation.";
-
-var laura_column3_text5 = "Sie haben ein junges oder altes Pferd? Sie wollen nicht nur Reiten, sondern vom Boden arbeiten? Dann passt die Bodenarbeit. Für Abwechslung, Spass, Muskelaufbau, ruhiges Spaziergehen oder langsames Heranführen an Stangenarbeit, Trails oder Gymkhanaübungen, die Bodenarbeit liefert hier viele verschiedene Inputs!";
-
+var laura_column3_text3 = "Zu meinen Bodenarbeitangebot gehört <br>- Longieren mit und ohne Hilfsmittel <br>- Bodenarbeit um die gegenseitige Kommunikation zu verbessern <br>- Bodenschule <br>- Showmanship";
+var laura_column3_text4 = " ";
+var laura_column3_text5 = "Geeignet für den Youngster bis zum Oldie";
 var laura_column4_titel = "SURE FOOT <sup>&reg;</sup>";
 
 var laura_column4_text1 = "SURE FOOT <sup>&reg;</sup><br>Equine Stability Program<br>";
@@ -46,6 +43,5 @@ var laura_column4_text2 = "Durch SURE FOOT <sup>&reg;</sup> geben Sie Ihrem Pfer
 
 var laura_column4_text3 = "Bei einer SURE FOOT <sup>&reg;</sup> Einheit lernen Sie die Pads, welche verschiedene Härten und Auflageflächen, selbst kennen. Nach einer kurzen Verhaltens- und Bewegungsanalyse lernen die Pferde die Pads vom Boden aus mit Ruhe und ohne Zwang kennen.  Die Pads können nach einer Kennenlernphase auch geritten angewendet werden.";
 
-var laura_column4_text4 = "Die Pads können bei Rittigkeitsproblemen wie hastiges Laufen, Triebigkeit, Verwerfen im Genick, Unkonzentriertheit, für Entspannung in Stresssituationen, im Aufbau oder nach Verletzungen unterstützend wirken.";
-
-var laura_column4_text5 = "Ich persönlich kann auf die Pads als Ergänzung im täglichen Miteinander nicht mehr verzichten.";
+var laura_column4_text4 = "SURE FOOT <sup>&reg;</sup> eignet sich als <br>- Abwechslung zum Reiten <br>- um das Gleichgewicht des Pferdes zu verbessern <br>- bei Rittigkeitsprobleme wie Verwerfen im Genick oder bei Unkonzentriertheit <br>- als Trainingsaufbau bei Anreiten oder nach Verletzungen <br>- um Stresssituationen zu vermindern";
+var laura_column4_text5 = " ";

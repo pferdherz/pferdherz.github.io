@@ -1,4 +1,4 @@
 
-var contact_rahel_pic = "Rahel";
+var contact_rahel_pic = "rahel titel";
 
-var contact_laura_pic = "Laura";
+var contact_laura_pic = "titelbild";

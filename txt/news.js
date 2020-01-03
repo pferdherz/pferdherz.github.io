@@ -13,7 +13,7 @@ var news_column1_text4 = " ";
 
 var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "Zur Zeit sind keine weitere Kinderreittage geplant. Wir halten Sie auf den Laufenden. ";
+var news_column2_text1 = "Zur Zeit sind noch keine fixen Daten für Kinderreittage geplant. <br> Wir halten Sie gerne auf den Laufenden.";
 var news_column2_text2 = " ";
 
 var news_column2_text3 = " ";
@@ -22,7 +22,7 @@ var news_column2_text4 = " ";
 
 var news_column3_titel = "Preisliste";
 
-var news_column3_text1 = "Die Rubrik befindet sich im Aufbau. ";
+var news_column3_text1 = "Diese Rubrik befindet sich im Aufbau. ";
 
 var news_column3_text2 = " ";
 
@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. Weitere Infos finden Sie auf www.bernerschachen.ch. Wir freuen uns auf euch.";
+var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? <br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch.";
 
 var news_column4_text2 = " ";
 

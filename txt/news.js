@@ -5,38 +5,37 @@ var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittage
 var news_column1_titel = "J&S Kurse";
 
 var news_column1_text1 = "Ihr Kind lernt spielerisch das Pferd kennen. Dabei lernen wir, wie das Pferd richtig gepflegt wird, wie man ein Pferd führt und reitet. Dabei lernen wir das Reiten auf dem Platz, das Voltigieren aber auch das Reiten im Gelände kennen.";
-var news_column1_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+var news_column1_text2 = "Der nächste J&S Gruppenkurs startet am 12. Februar 2020 jeweils an 2 - 3  Mittwochnachmittagen von 14.15 - 15.45 Uhr statt. Es hat noch freie Plätze und Anmeldungen werden noch entgegen genommen. Für eine komplette Ausschreibung oder bei Fragen dürfen Sie sich gerne unverbindlich melden";
 
-var news_column1_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
+var news_column1_text3 = " ";
 
-var news_column1_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+var news_column1_text4 = " ";
 
-var news_column2_titel = "Erle";
+var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+var news_column2_text1 = "Zur Zeit sind keine weitere Kinderreittage geplant.";
+var news_column2_text2 = " ";
 
-var news_column2_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+var news_column2_text3 = " ";
 
-var news_column2_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
-
-var news_column2_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+var news_column2_text4 = " ";
 
 var news_column3_titel = "Preisliste";
 
-var news_column3_text1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+var news_column3_text1 = " ";
 
-var news_column3_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+var news_column3_text2 = " ";
 
-var news_column3_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
+var news_column3_text3 = " ";
 
-var news_column3_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. Weitere Infos finden Sie auf www.bernerschachen.ch. Wir freuen uns auf euch.";
 
-var news_column4_text2 = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+var news_column4_text2 = " ";
 
-var news_column4_text3 = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
+var news_column4_text3 = " ";
 
-var news_column4_text4 = "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+var news_column4_text4 = " ";

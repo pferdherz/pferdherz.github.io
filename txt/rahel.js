@@ -27,7 +27,7 @@ var rahel_column2_text4 = " ";
 
 var rahel_column2_text5 = "";
 
-var rahel_column3_titel = "Heilpädagogisches Reiten";
+var rahel_column3_titel = "Heilp. Reiten";
 
 var rahel_column3_text1 = " ";
 

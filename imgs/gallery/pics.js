@@ -1,2 +1,2 @@
 
-var pics = ["Naturtrail", "agility", "springen", "turnier"];
+var pics = [" ", "agility", "springen", " "];

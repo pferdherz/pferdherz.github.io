@@ -1,5 +1,5 @@
 
-var laura_column1_pic = "Laura";
+var laura_column1_pic = "titelbild";
 
 var laura_column2_pic = "Unterricht";
 

@@ -18,7 +18,7 @@ var laura_column2_titel = "Reitunterricht";
 
 var laura_column2_text1 = "Grundausbildung<br>Stangenarbeit<br>Trail<br>Sitzschulung<br>";
 
-var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise, ich unterstüzte Sie gerne Reitweise- und Rassenunabhängig. <br> Ich helfe Ihnen gerne <br>- bei der Grundausbildung <br>- bei Rittigkeitsproblemen <br>- beim Muskelaufbau <br>- bei Stangenarbeit <br>- Sitzproblemen <br> Abwechslung zu bringen";
+var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise, ich unterstüzte Sie gerne Reitweise- und Rassenunabhängig.<br> <br> Ich helfe Ihnen gerne <br>- bei der Grundausbildung <br>- bei Rittigkeitsproblemen <br>- beim Muskelaufbau <br>- bei Stangenarbeit <br>- Sitzproblemen <br>- Abwechslung zu bringen";
 
 var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship und Gymkhana Trainings von den Anfängen bis zum ersten Turnierstart an.";
 
@@ -32,9 +32,9 @@ var laura_column3_text1 = "Longieren<br>Bodenarbeit<br>Bodenschule";
 
 var laura_column3_text2 = "Bodenarbeit fördert das Vertrauen, das gegenseitige Verständnis und ist eine wichtige Abwechslung zum Reiten.";
 
-var laura_column3_text3 = "Zu meinen Bodenarbeitangebot gehört <br>- Longieren <br>- verbesserte Kommunikation <br>- Bodenschule <br>- Showmanship";
+var laura_column3_text3 = "Zu meinen Bodenarbeitangebot gehört:<br> <br>- Longieren <br>- verbesserte Kommunikation <br>- Bodenschule <br>- Showmanship <br>- Stangenarbeit <br>- Trail-, Gymkhanaübungen vom Boden";
 var laura_column3_text4 = " ";
-var laura_column3_text5 = "Geeignet für den Youngster bis zum Oldie";
+var laura_column3_text5 = "Geeignet für den Youngster bis zum Oldie!";
 var laura_column4_titel = "SURE FOOT <sup>&reg;</sup>";
 
 var laura_column4_text1 = "SURE FOOT <sup>&reg;</sup><br>Equine Stability Program<br>";
@@ -44,4 +44,4 @@ var laura_column4_text2 = "Durch SURE FOOT <sup>&reg;</sup> geben Sie Ihrem Pfer
 var laura_column4_text3 = "Bei einer SURE FOOT <sup>&reg;</sup> Einheit lernen Sie die Pads, welche verschiedene Härten und Auflageflächen, selbst kennen. Nach einer kurzen Verhaltens- und Bewegungsanalyse lernen die Pferde die Pads vom Boden aus mit Ruhe und ohne Zwang kennen. Die Pads können nach einer Kennenlernphase auch geritten angewendet werden.";
 
 var laura_column4_text4 = "SURE FOOT <sup>&reg;</sup> eignet sich als <br>- Abwechslung zum Reiten <br>- Gleichgewichtsverbesserung <br>- bei Rittigkeitsprobleme <br>- Verwerfen im Genick <br>- bei Unkonzentriertheit <br>- als Trainingsaufbau <br>- Anreiten <br>- nach Verletzungen <br>- bei Stresssituationen";
-var laura_column4_text5 = " ";
+var laura_column4_text5 = "Ich kann SURE FOOT <sup>&reg;</sup> nicht mehr auf meinen Training mit den Pferden wegdenken - probieren Sie es doch auch mal aus! ";

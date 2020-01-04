@@ -4,6 +4,7 @@
 		<title>galerie - rlb-reiten</title>
         <meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="gallery.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
@@ -38,11 +39,34 @@
 				</p>
 				<div>
 					<div class="row">
-						<script>
-						for (i = 0; i < pics.length; i++) {
-							document.write("<div class=\"column\"><img src=\"imgs/gallery/" + pics[i] + ".jpg\" style=\"width:100%\" alt=\"" + pics[i] + "\" onclick=\"myFunction(this);\"></div>");
-						}
-						</script>
+						<div class="column">
+							<script>
+							for (i = 0; i < pics1.length; i++) {
+								document.write("<img src=\"imgs/gallery/" + pics1[i] + ".jpg\" style=\"width:100%\" alt=\"" + pics1[i] + "\" onclick=\"myFunction(this);\">");
+							}
+							</script>
+						</div>
+						<div class="column">
+							<script>
+							for (i = 0; i < pics2.length; i++) {
+								document.write("<img src=\"imgs/gallery/" + pics2[i] + ".jpg\" style=\"width:100%\" alt=\"" + pics2[i] + "\" onclick=\"myFunction(this);\">");
+							}
+							</script>
+						</div>
+						<div class="column">
+							<script>
+							for (i = 0; i < pics3.length; i++) {
+								document.write("<img src=\"imgs/gallery/" + pics3[i] + ".jpg\" style=\"width:100%\" alt=\"" + pics3[i] + "\" onclick=\"myFunction(this);\">");
+							}
+							</script>
+						</div>
+						<div class="column">
+							<script>
+							for (i = 0; i < pics4.length; i++) {
+								document.write("<img src=\"imgs/gallery/" + pics4[i] + ".jpg\" style=\"width:100%\" alt=\"" + pics4[i] + "\" onclick=\"myFunction(this);\">");
+							}
+							</script>
+						</div>
 					</div>
 					<div class="expandingContainer">
 					  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>

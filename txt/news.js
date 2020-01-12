@@ -13,7 +13,7 @@ var news_column1_text4 = " ";
 
 var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "Zur Zeit sind noch keine fixen Daten für Kinderreittage geplant. <br> Wir halten Sie gerne auf den Laufenden.";
+var news_column2_text1 = "In Planung. <br> Wir halten Sie gerne auf den Laufenden.";
 var news_column2_text2 = " ";
 
 var news_column2_text3 = " ";
@@ -22,7 +22,7 @@ var news_column2_text4 = " ";
 
 var news_column3_titel = "Preisliste";
 
-var news_column3_text1 = "Kinderreitstunde Privat 45.- <br> Privat Erwachsene 50 Minunten 50.- <br> SURE FOOT Einheit 50-60 Minuten 60.- <br> Bei mobilem Unterricht kommen noch Fahrkosten dazu. ";
+var news_column3_text1 = "Kinderreitstunde Privat 45.- <br> Privat Erwachsene 50 Min. 50.- <br> SURE FOOT Einheit 50-60 Min. 60.- <br> Bei mobilem Unterricht kommen noch Fahrkosten dazu. ";
 
 var news_column3_text2 = " ";
 

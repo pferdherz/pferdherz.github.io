@@ -15,7 +15,7 @@ var rahel_column1_text4 = " ";
 
 var rahel_column1_text5 = "";
 
-var rahel_column2_titel = "Kinderreitstunden";
+var rahel_column2_titel = "Reitstunden";
 
 var rahel_column2_text1 = "Diese Rubrik befindet sich im Aufbau";
 

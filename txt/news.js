@@ -5,7 +5,7 @@ var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittage
 var news_column1_titel = "J&S Kurse";
 
 var news_column1_text1 = "Ihr Kind lernt spielerisch das Pferd kennen. Dabei lernen wir, wie das Pferd richtig gepflegt wird, wie man ein Pferd führt und reitet. Dabei lernen wir das Reiten auf dem Platz, das Voltigieren aber auch das Reiten im Gelände kennen.";
-var news_column1_text2 = "Der nächste J&S Gruppenkurs startet am 12. Februar 2020 jeweils an 2 - 3  Mittwochnachmittagen pro Monat von 14.15 - 15.45 Uhr statt. Es hat noch freie Plätze und Anmeldungen werden noch entgegen genommen. Für eine komplette Ausschreibung oder bei Fragen dürfen Sie sich gerne unverbindlich melden";
+var news_column1_text2 = "Der nächste J&S Gruppenkurs startet am 12. Februar 2020 und findet jeweils an 2 - 3  Mittwochnachmittagen pro Monat von 14.15 - 15.45 Uhr statt. Es hat noch freie Plätze und Anmeldungen werden noch entgegen genommen. Für eine komplette Ausschreibung oder bei Fragen dürfen Sie sich gerne unverbindlich melden. <br> Daten Quartal 1: 12.1, 19.2, 26.2, 11.3, 18.3, 25.3, <br> Daten Quartal 2: 22.4, 6.5, 13.5, 20.5, 17.6, 1.7
 
 var news_column1_text3 = " ";
 

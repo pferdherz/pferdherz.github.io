@@ -5,4 +5,5 @@ function myFunction(imgs) {
   expandImg.src = imgs.src;
   imgText.innerHTML = imgs.alt;
   expandImg.parentElement.style.display = "block";
+  gtag('event', 'click-picture', {'event_category': 'gallery', 'event_label': imgs.alt});
 }

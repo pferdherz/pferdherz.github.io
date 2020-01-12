@@ -22,7 +22,7 @@ var news_column2_text4 = " ";
 
 var news_column3_titel = "Preisliste";
 
-var news_column3_text1 = "Diese Rubrik befindet sich im Aufbau. ";
+var news_column3_text1 = "Kinderreitstunde Privat 45.- <br> Privat Erwachsene 50 Minunten 50.- <br> SURE FOOT Einheit 50-60 Minuten 60.- <br> Bei mobilem Unterricht kommen noch Fahrkosten dazu. ";
 
 var news_column3_text2 = " ";
 

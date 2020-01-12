@@ -41,7 +41,7 @@ var laura_column4_text1 = "SURE FOOT <sup>&reg;</sup><br>Equine Stability Progra
 
 var laura_column4_text2 = "Durch SURE FOOT <sup>&reg;</sup> geben Sie Ihrem Pferd die Möglichkeit den Körper neu zu erfühlen und Bewegungsabläufe durch instabile Flächen zu verändern. Durch die Arbeit mit SURE FOOT <sup>&reg;</sup> kann sich das Verhalten, Balance und Bewegung beim Pferd verändern.";
 
-var laura_column4_text3 = "Bei einer SURE FOOT <sup>&reg;</sup> Einheit lernen Sie die Pads, welche verschiedene Härten und Auflageflächen, selbst kennen. Nach einer kurzen Verhaltens- und Bewegungsanalyse lernen die Pferde die Pads vom Boden aus mit Ruhe und ohne Zwang kennen. Die Pads können nach einer Kennenlernphase auch geritten angewendet werden.";
+var laura_column4_text3 = "Bei einer SURE FOOT <sup>&reg;</sup> Einheit lernen Sie die Pads, welche verschiedene Härten und Auflageflächen aufweisen, durch ausprobieren selbst kennen. Nach einer kurzen Verhaltens- und Bewegungsanalyse lernen die Pferde die Pads vom Boden aus mit Ruhe und ohne Zwang kennen. Die Pads können nach einer Kennenlernphase auch geritten angewendet werden.";
 
 var laura_column4_text4 = "SURE FOOT <sup>&reg;</sup> eignet sich als <br>- Abwechslung zum Reiten <br>- Gleichgewichtsverbesserung <br>- bei Rittigkeitsprobleme <br>- Verwerfen im Genick <br>- bei Unkonzentriertheit <br>- als Trainingsaufbau <br>- Anreiten <br>- nach Verletzungen <br>- bei Stresssituationen";
 var laura_column4_text5 = "Ich kann SURE FOOT <sup>&reg;</sup> nicht mehr auf meinen Training mit den Pferden wegdenken - probieren Sie es doch auch mal aus! ";

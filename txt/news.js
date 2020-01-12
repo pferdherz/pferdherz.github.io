@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? <br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch.";
+var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? <br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. <br>Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch.";
 
 var news_column4_text2 = " ";
 

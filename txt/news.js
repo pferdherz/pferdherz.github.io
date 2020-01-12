@@ -13,7 +13,7 @@ var news_column1_text4 = " ";
 
 var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "In Planung. <br> Wir halten Sie gerne auf den Laufenden.";
+var news_column2_text1 = "In Planung. <br> Wir halten Sie gerne auf dem Laufenden.";
 var news_column2_text2 = " ";
 
 var news_column2_text3 = " ";
@@ -22,7 +22,7 @@ var news_column2_text4 = " ";
 
 var news_column3_titel = "Preisliste";
 
-var news_column3_text1 = "Kinderreitstunde Privat 45.- <br> Privat Erwachsene 50 Min. 50.- <br> SURE FOOT 50-60 Min. 60.- <br> <br>Bei mobilem Unterricht kommen Fahrkosten dazu. ";
+var news_column3_text1 = "Kinderreitstunde Privat <br>45.- <br><br> Privat Erwachsene 50 Min. <br>50.- <br><br> SURE FOOT 50-60 Min. <br>60.- <br> 3er Abo SURE FOOT <br>160.- <br><br>Bei mobilem Unterricht kommen Fahrkosten dazu. <br><br>AGB<br>Im Verhinderungsfall bitte 24 Stunden im Voraus abmelden, sonst muss die Stunde verechnet werden.<br><br>Das Tragen eines Reithelms für Kinder ist Pflicht.<br><br>Es wird jede Haftung abgelehnt.";
 
 var news_column3_text2 = " ";
 
@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? <br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. <br>Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch.";
+var news_column4_text1 = "Haben Sie noch keine Pläne für die Frühlingsferien? <br><br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil vom 30.03 - 02.04.2020. <br><br>Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch. <br><br>11. April 2020<br>Gymkhana-Trail-Kurs in Hessigkofen,<br>Infos folgen.";
 
 var news_column4_text2 = " ";
 

@@ -10,7 +10,6 @@
 			gtag('config', 'UA-155271720-1');
 		</script>
 		
-		<title>kontakt - rlb-reiten</title>
         <meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="style.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
@@ -22,22 +21,24 @@
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="msapplication-config" content="/favicon/browserconfig.xml">
 		<meta name="theme-color" content="#ffffff">
+		<script src="pages.js"></script>
 	    <script src="txt/contact.js"></script>
 	    <script src="imgs/contact/pics.js"></script>
 	</head>
 	<body>
+		<script>document.title = page_contact.toLowerCase() + " - rlb-reiten";</script>
 		<div class="header"></div>
 		<div class="container">
 			<ul class="navbar">
 				<a href="https://rlb-reiten.ch">
 					<img class="navbar-logo" src="imgs/rlb-reiten.png">
 				</a>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch">Home</a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/news.html">Aktuelles</a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/rahel.html">Rahel</a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/laura.html">Laura</a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/gallery.html">Galerie</a></li>
-				<li><a class="navbar-now" href="https://rlb-reiten.ch/contact.html">Kontakt</a></li>
+				<li><a class="navbar-nav" href="https://rlb-reiten.ch"><script>document.write(page_home);</script></a></li>
+				<li><a class="navbar-nav" href="https://rlb-reiten.ch/news.html"><script>document.write(page_news);</script></a></li>
+				<li><a class="navbar-nav" href="https://rlb-reiten.ch/rahel.html"><script>document.write(page_rahel);</script></a></li>
+				<li><a class="navbar-nav" href="https://rlb-reiten.ch/laura.html"><script>document.write(page_laura);</script></a></li>
+				<li><a class="navbar-nav" href="https://rlb-reiten.ch/gallery.html"><script>document.write(page_gallery);</script></a></li>
+				<li><a class="navbar-now" href="https://rlb-reiten.ch/contact.html"><script>document.write(page_contact);</script></a></li>
 			</ul>
 			<div class="main">
 				<h1><script>document.write(contact_titel);</script></h1>

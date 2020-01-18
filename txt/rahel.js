@@ -38,15 +38,3 @@ var rahel_column3_text3 = " ";
 var rahel_column3_text4 = " ";
 
 var rahel_column3_text5 = "";
-
-var rahel_column4_titel = "";
-
-var rahel_column4_text1 = " ";
-
-var rahel_column4_text2 = " ";
-
-var rahel_column4_text3 = " ";
-
-var rahel_column4_text4 = " ";
-
-var rahel_column4_text5 = "";

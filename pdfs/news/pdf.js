@@ -17,7 +17,7 @@ var news_column3_pdf2 = "";
 
 var news_column3_pdf3 = "";
 
-var news_column4_pdf1 = " ";
+var news_column4_pdf1 = "Gymkhana-Trail Kurs H. 11.04";
 
 var news_column4_pdf2 = "";
 

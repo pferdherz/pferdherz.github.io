@@ -22,7 +22,8 @@
 		<meta name="msapplication-config" content="/favicon/browserconfig.xml">
 		<meta name="theme-color" content="#ffffff">
 		<script src="pages.js"></script>
-	    <script src="txt/news.js"></script>
+		<script src="txt/news.js"></script>
+		<script src="pdfs/news/pdf.js"></script>
 	</head>
 	<body>
 		<script>document.title = page_news.toLowerCase() + " - rlb-reiten";</script>
@@ -60,6 +61,17 @@
 						<p>
 							<script>document.write(news_column1_text4);</script>
 						</p>
+						<script>
+							if (news_column1_pdf1.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column1_pdf1 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column1_pdf1 + "'});\">" + news_column1_pdf1 + "</a> (PDF)</p>");
+							}
+							if (news_column1_pdf2.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column1_pdf2 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column1_pdf2 + "'});\">" + news_column1_pdf2 + "</a> (PDF)</p>");
+							}
+							if (news_column1_pdf3.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column1_pdf3 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column1_pdf3 + "'});\">" + news_column1_pdf3 + "</a> (PDF)</p>");
+							}
+						</script>
 					</div>
 					<div class="four_columns">
 						<h2><script>document.write(news_column2_titel);</script></h2>
@@ -75,6 +87,17 @@
 						<p>
 							<script>document.write(news_column2_text4);</script>
 						</p>
+						<script>
+							if (news_column2_pdf1.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column2_pdf1 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column2_pdf1 + "'});\">" + news_column2_pdf1 + "</a> (PDF)</p>");
+							}
+							if (news_column2_pdf2.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column2_pdf2 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column2_pdf2 + "'});\">" + news_column2_pdf2 + "</a> (PDF)</p>");
+							}
+							if (news_column2_pdf3.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column2_pdf3 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column2_pdf3 + "'});\">" + news_column2_pdf3 + "</a> (PDF)</p>");
+							}
+						</script>
 					</div>
 					<div class="four_columns">
 						<h2><script>document.write(news_column3_titel);</script></h2>
@@ -90,6 +113,17 @@
 						<p>
 							<script>document.write(news_column3_text4);</script>
 						</p>
+						<script>
+							if (news_column3_pdf1.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column3_pdf1 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column3_pdf1 + "'});\">" + news_column3_pdf1 + "</a> (PDF)</p>");
+							}
+							if (news_column3_pdf2.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column3_pdf2 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column3_pdf2 + "'});\">" + news_column3_pdf2 + "</a> (PDF)</p>");
+							}
+							if (news_column3_pdf3.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column3_pdf3 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column3_pdf3 + "'});\">" + news_column3_pdf3 + "</a> (PDF)</p>");
+							}
+						</script>
 					</div>
 					<div class="four_columns">
 						<h2><script>document.write(news_column4_titel);</script></h2>
@@ -105,6 +139,17 @@
 						<p>
 							<script>document.write(news_column4_text4);</script>
 						</p>
+						<script>
+							if (news_column4_pdf1.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column4_pdf1 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column4_pdf1 + "'});\">" + news_column4_pdf1 + "</a> (PDF)</p>");
+							}
+							if (news_column4_pdf2.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column4_pdf2 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column4_pdf2 + "'});\">" + news_column4_pdf2 + "</a> (PDF)</p>");
+							}
+							if (news_column4_pdf3.length > 0) {
+								document.write("<p><a href=\"pdfs/news/" + news_column4_pdf3 + ".pdf\" target=\"_blank\" onClick=\"gtag('event', 'click-pdf', {'event_category': 'news', 'event_label': '" + news_column4_pdf3 + "'});\">" + news_column4_pdf3 + "</a> (PDF)</p>");
+							}
+						</script>
 					</div>
 				</div>
 			</div>

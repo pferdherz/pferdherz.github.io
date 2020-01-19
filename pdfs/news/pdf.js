@@ -1,5 +1,5 @@
 
-var news_column1_pdf1 = "Beispiel-1-1";
+var news_column1_pdf1 = "Anmeldung J&S 2020";
 
 var news_column1_pdf2 = "Beispiel-1-2";
 

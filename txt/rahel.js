@@ -19,7 +19,7 @@ var rahel_column2_titel = "Kinderreiten";
 
 var rahel_column2_text1 = "Spaziergänge und Ausritte<br> Reiten auf dem Platz und an der Longe";
 
-var rahel_column2_text2 = "In Baggwil (3267 Seedorf) biete ich erlebnisreiche und freudige Stunden bei den Pferden an. Im Vordergrund steht der Umgang mit dem Pferd. Wir bauen eine Beziehung und Freundschaft zum Pferd auf. Wir führen, putzen und pflegen das Pferd. Erledigen kleinere Stallarbeiten sowie füttern und belohnen das Pferd.<br>Kinder ab 3 Jahren lernen spielerisch den Umgang mit dem Pferd. Dabei unternehmen wir Ausritte/Spaziergänge übers Feld oder in den Wald. Auch das Reiten auf dem Reitplatz kommt nicht zu kurz. Das Reiten findet alleine oder zu zweit mit einem Pferd statt.<br>Auch Bodenarbeit und Reiten an der Longe gehören dazu.<br>Wer sattelfest ist, darf auch auf dem Handpferd oder frei mit ins Gelände.";
+var rahel_column2_text2 = "In Baggwil (3267 Seedorf) biete ich erlebnisreiche Stunden bei den Pferden an. Im Vordergrund steht der Umgang mit dem Pferd. Wir bauen eine Beziehung und Freundschaft zum Pferd auf. Wir führen, putzen und pflegen das Pferd. Erledigen kleinere Stallarbeiten sowie füttern und belohnen das Pferd.<br>Kinder ab 3 Jahren lernen spielerisch den Umgang mit dem Pferd. Dabei unternehmen wir Ausritte/Spaziergänge übers Feld oder in den Wald. Auch das Reiten auf dem Reitplatz kommt nicht zu kurz. Das Reiten findet alleine oder zu zweit mit einem Pferd statt.<br>Auch Bodenarbeit und Reiten an der Longe gehören dazu.<br>Wer sattelfest ist, darf auch auf dem Handpferd oder frei mit ins Gelände.";
 
 var rahel_column2_text3 = " ";
 

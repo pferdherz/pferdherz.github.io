@@ -5,7 +5,7 @@ var rahel_text1 = "Diese Seite befindet sich im Aufbau.";
 
 var rahel_column1_titel = "Über mich";
 
-var rahel_column1_text1 = "Diese Rubrik befindet sich im Aufbau";
+var rahel_column1_text1 = "Primarlehrerin Reitpädagogin SG-TR";
 
 var rahel_column1_text2 = " ";
 

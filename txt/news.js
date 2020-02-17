@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "NEUES DATUM! <br> Haben Sie noch keine Pläne für die Frühlingsferien? <br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil Mo 06.04.20 - Do 09.04.20. <br>Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch. <br><br>11. April 2020<br>Gymkhana-Trail-Kurs in Hessigkofen.<br> - Mit mind. 12 Hindernissen.<br> - Mit Möglichkeit SURE FOOT kennen zu lernen";
+var news_column4_text1 = "NEUES DATUM! <br> Haben Sie noch keine Pläne für die Frühlingsferien? <br>Wie wäre es mit dem MS Sport Reitcamp im Reitstall Bernerschachen in Attiswil <br>Mo 06.04.20 - Do 09.04.20. <br>Weitere Infos finden Sie auf www.bernerschachen.ch. <br>Das Team Bernerschachen und ich freuen uns auf euch. <br><br>11. April 2020<br>Gymkhana-Trail-Kurs in Hessigkofen.<br> - Mind. 12 Hindernissen.<br> - SURE FOOT vor Ort testen";
 
 var news_column4_text2 = " ";
 

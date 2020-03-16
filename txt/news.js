@@ -13,7 +13,7 @@ var news_column1_text4 = " ";
 
 var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "Kinderreittage Baggwil <br> 04.04.20 Osterspass <br> 15.04.20 Frühlingsspass <br> <br> Eine schöne, sinnvolle und lustige Zeit mit dem Pferden verbringen. Wir freuen uns auf Anmeldungen. <br>Die Kurse finden unter den Auflagen des BAG statt.";
+var news_column2_text1 = "Kinderreittage Baggwil <br><br> 04.04.20 Osterspass <br> 15.04.20 Frühlingsspass <br> <br> Eine schöne, sinnvolle und lustige Zeit mit dem Pferden verbringen. Wir freuen uns auf eine gute Zeit mit euch. <br><br>Die Kurse finden unter den Auflagen des BAG statt.";
 var news_column2_text2 = " ";
 
 var news_column2_text3 = " ";

@@ -5,7 +5,7 @@ var news_column1_pdf2 = "";
 
 var news_column1_pdf3 = "";
 
-var news_column2_pdf1 = "";
+var news_column2_pdf1 = "Reittage Baggwil Frühling 2020 BAG";
 
 var news_column2_pdf2 = "";
 

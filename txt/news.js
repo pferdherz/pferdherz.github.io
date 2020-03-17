@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "MS Sport Camp in Attiswil <br> und <br>Gymkhana-Trail-Kurs in Hessigkofen findet nicht statt. <br>Es wird für ein neues Datum geschaut.";
+var news_column4_text1 = "MS Sport Camp in Attiswil <br> und <br>Gymkhana-Trail-Kurs in Hessigkofen finden nicht statt. <br><br>Der Gymkhana-Trail-Kurs findet an einem anderen Datum statt.";
 
 var news_column4_text2 = " ";
 

@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Mobiler Privat- und Halbprivatunterricht mit eigenem Pferd wieder möglich.<br><br>Auflagen BAG<br>-Abstand halten<br>-wenn möglich via TWINT oder ebanking zahlen<br><br>Ich freue mich auf euch!";
+var news_column4_text1 = "Mobiler Privat- und Halbprivatunterricht und SURE FOOT<sup>&reg;</sup><br> mit eigenem Pferd ab sofort wieder möglich.<br><br>Auflagen BAG<br>-Abstand halten<br>-wenn möglich via TWINT oder ebanking zahlen<br><br>Ich freue mich auf euch!";
 
 var news_column4_text2 = " ";
 

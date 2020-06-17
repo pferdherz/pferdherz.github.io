@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Sommer Reitlager <br> in Attiswil <br> www.bernerschachen.ch <br><br>Gymkhana-Stangen-Kurs <br> 26.08. Hessigkofen <br> 2 freie Plätze in <br> der 2. Gruppe! <br>
+var news_column4_text1 = "Sommer Reitlager <br> in Attiswil <br> www.bernerschachen.ch <br><br>Gymkhana-Stangen-Kurs <br> 26.08. Hessigkofen <br> 2 freie Plätze in <br> der 2. Gruppe!";
 var news_column4_text2 = " ";
 
 var news_column4_text3 = " ";

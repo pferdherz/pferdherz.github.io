@@ -32,8 +32,7 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Mobiler Privat- und Halbprivatunterricht und SURE FOOT<sup>&reg;</sup><br> mit eigenem Pferd ab sofort wieder möglich.<br><br>Auflagen BAG<br>-Abstand halten<br>-wenn möglich via TWINT oder ebanking zahlen<br><br>Ich freue mich auf euch!";
-
+var news_column4_text1 = "Sommer Reitlager <br> in Attiswil <br> www.bernerschachen.ch <br><br>Gymkhana-Stangen-Kurs <br> 26.08. Hessigkofen <br> 2 freie Plätze in <br> der 2. Gruppe! <br>
 var news_column4_text2 = " ";
 
 var news_column4_text3 = " ";

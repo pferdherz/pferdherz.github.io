@@ -4,9 +4,8 @@ var news_titel = "Aktuelles";
 var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittagen, Preislisten und weitere News.";
 var news_column1_titel = "J&S Kurse";
 
-var news_column1_text1 = "Der Kurs findet zur Zeit nicht statt. Wir hoffen ab Ende Mai / Anfangs Juni unter den Auflagen des BAGs wieder startet zu können. Wir halten Sie auf dem Laufenden.<br><br>Ihr Kind lernt spielerisch das Pferd kennen. Dabei lernen wir, wie das Pferd richtig gepflegt wird, wie man ein Pferd führt und reitet. Dabei lernen wir das Reiten auf dem Platz, das Voltigieren aber auch das Reiten im Gelände kennen.";
-var news_column1_text2 = "Der nächste J&S Gruppenkurs startet am 12. Februar 2020 und findet jeweils an 2 - 3  Mittwochnachmittagen pro Monat von 14.15 - 15.45 Uhr statt. <br><br>Der Kurs hat gestartet. Laufender Einstieg ist möglich. <br><br>Für eine komplette Ausschreibung oder bei Fragen dürfen Sie sich gerne unverbindlich melden.";
-
+var news_column1_text1 = "Der Kurs ist wieder gestartet.<br><br>Ihr Kind lernt spielerisch das Pferd kennen. Dabei lernen wir, wie das Pferd richtig gepflegt wird, wie man ein Pferd führt und reitet. Dabei lernen wir das Reiten auf dem Platz, das Voltigieren aber auch das Reiten im Gelände kennen.";
+var news_column1_text2 = "Der Kurs endet im Juli 2020. Einzellektionen in und nach den Sommerferien sind möglich. Es wird geprüft, ob nach den Sommerferien ein weiterer Kurs statt findet.";
 var news_column1_text3 = " ";
 
 var news_column1_text4 = " ";

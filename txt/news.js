@@ -4,7 +4,7 @@ var news_titel = "Aktuelles";
 var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittagen, Preislisten und weitere News.";
 var news_column1_titel = "J&S Kurse";
 
-var news_column1_text1 = "Zur Zeit findet kein Kurs statt. br>Einzellektionen oder Lektionen in Kleingruppe am Montagnachmittag möglich. ";
+var news_column1_text1 = "Zur Zeit findet kein Kurs statt. <br>Einzellektionen oder Lektionen in Kleingruppe am Montagnachmittag möglich. ";
 var news_column1_text2 = " ";
 var news_column1_text3 = " ";
 

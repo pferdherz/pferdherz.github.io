@@ -1,5 +1,5 @@
 
-var news_column1_pdf1 = "";
+var news_column1_pdf1 = "Spass am Pferd";
 
 var news_column1_pdf2 = "";
 

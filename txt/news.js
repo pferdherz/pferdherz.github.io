@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 var news_column4_titel = "Sonstiges";
 
 var news_column4_text1 = "Stangen-Trail-Training in Hessigkofen.<br><br>12.09.20<br>03.10.20<br><br>Die Ausschreibung dazu findet Ihr weiter unten. Ich freue mich auf spannende Trainings mit euch!";
-var news_column4_text2 = "17.08.20<br>Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meine Reitstunden einzubauen.";
+var news_column4_text2 = "17.08.20<br>Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meinen Reitstunden einzubauen.";
 
 var news_column4_text3 = " ";
 

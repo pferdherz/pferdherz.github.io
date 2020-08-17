@@ -4,7 +4,7 @@ var news_titel = "Aktuelles";
 var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittagen, Preislisten und weitere News.";
 var news_column1_titel = "J&S Kurse";
 
-var news_column1_text1 = "Zur Zeit findet kein Kurs statt. <br>Einzellektionen oder Lektionen in Kleingruppe am Montagnachmittag möglich.<br><br>Bei Interesse stelle ich gerne ein passendes Programm zusammen! ";
+var news_column1_text1 = "KIDS AM PFERD!<br>Montag Nachmittag<br>14.00-15.30 Uhr<br>31.08; 14.09;21.09 ";
 var news_column1_text2 = " ";
 var news_column1_text3 = " ";
 
@@ -12,7 +12,7 @@ var news_column1_text4 = " ";
 
 var news_column2_titel = "Kinderreittage";
 
-var news_column2_text1 = "Reittage im Frühling mussten abgesagt werden. Für den Herbst sind Kurse in Planung. Die Kurse finden unter den Auflagen des BAG statt.";
+var news_column2_text1 = "Die Reittage im Frühling mussten abgesagt werden. Für den Herbst sind Kurse in Planung. Die Kurse finden unter den Auflagen des BAG statt.";
 var news_column2_text2 = " ";
 
 var news_column2_text3 = " ";
@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 var news_column4_titel = "Sonstiges";
 
 var news_column4_text1 = "Stangen-Trail-Training in Hessigkofen.<br><br>12.09.20<br>03.10.20";
-var news_column4_text2 = " ";
+var news_column4_text2 = "Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meine Reitstunden einzubauen.";
 
 var news_column4_text3 = " ";
 

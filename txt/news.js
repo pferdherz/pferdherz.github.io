@@ -4,7 +4,7 @@ var news_titel = "Aktuelles";
 var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittagen, Preislisten und weitere News.";
 var news_column1_titel = "J&S Kurse";
 
-var news_column1_text1 = "KIDS AM PFERD!<br>Montag Nachmittag<br>14.00-15.30 Uhr<br>31.08; 14.09;21.09 ";
+var news_column1_text1 = "KIDS AM PFERD!<br><br>Montag Nachmittag<br>14.00-15.30 Uhr<br>31.08; 14.09; 21.09.<br><br> Ich freue mich auf dein Kommen!";
 var news_column1_text2 = " ";
 var news_column1_text3 = " ";
 
@@ -31,8 +31,8 @@ var news_column3_text4 = " ";
 
 var news_column4_titel = "Sonstiges";
 
-var news_column4_text1 = "Stangen-Trail-Training in Hessigkofen.<br><br>12.09.20<br>03.10.20";
-var news_column4_text2 = "Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meine Reitstunden einzubauen.";
+var news_column4_text1 = "Stangen-Trail-Training in Hessigkofen.<br><br>12.09.20<br>03.10.20<br><br>Die Ausschreibung dazu findet Ihr weiter unten. Ich freue mich auf spannende Trainings mit euch";
+var news_column4_text2 = "17.08.20<br>Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meine Reitstunden einzubauen.";
 
 var news_column4_text3 = " ";
 

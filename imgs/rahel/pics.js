@@ -1,5 +1,5 @@
 
-var rahel_column1_pic = "rahel titel";
+var rahel_column1_pic = "rahelyanis";
 
 var rahel_column2_pic = "Kinderreiten";
 

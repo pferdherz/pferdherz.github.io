@@ -5,4 +5,4 @@ var pics2 = ["springen", "agility", "hut"];
 
 var pics3 = ["jura", "abend2"];
 
-var pics4 = ["springen", "avenches", "kurs"];
+var pics4 = ["schnee1", "avenches", "kurs"];

@@ -32,7 +32,7 @@ var news_column3_text4 = " ";
 var news_column4_titel = "Sonstiges";
 
 var news_column4_text1 = "Aufgrund der Corona und Herpes Situation finden Kurse spontan statt. <br><br>Kurse bei euch zu Hause z.B. Bodenarbeit, Sitzkurs oder SURE FOOT sind jederzeit möglich! Ich freue mich auf euer Kontaktaufnahme";
-var news_column4_text2 = "17.08.20<br>Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meinen Reitstunden einzubauen.";
+var news_column4_text2 = "Hwinter 20/21<br>Den ruhigen Winter nutze ich für eine Online-Weiterbildung. Ich habe mein Wissen zum Thema Pferdeanatomie und Biomechanik aufgefrischt und vertieft. Ich freue mich darauf, mehr zum Thema Biomechanik in meinen Unterricht mit euch einzubauen.<br><br> 17.08.20<br>Zwei spannende und lehrreiche Kindersport Weiterbildungstage im NPZ Bern liegen hinter mir. Es wurde viel Wissen um den Aufbau von Kindersportlektionen und Dressurlektionen aufgefrischt, Demo-Lektionen abgehalten und GA03 geritten und gerichtet. Ich freue mich die neuen Inputs in meinen Reitstunden einzubauen.";
 
 var news_column4_text3 = " ";
 

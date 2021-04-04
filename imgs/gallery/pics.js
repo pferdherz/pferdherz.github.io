@@ -1,8 +1,8 @@
 
-var pics1 = ["springen", "kurs", "abend2", "agility", "avenches"];
+var pics1 = ["springen", "kurs", "abend2", "agility", "avenches", "hut"];
 
-var pics2 = ["tofflan", "brücke", "hut", "jura"];
+var pics2 = ["tofflan", "brücke", "", "jura"];
 
-var pics3 = ["schnee", "", ""];
+var pics3 = ["schnee1", "chiccajura", "chiccaturnier", "zebra"];
 
-var pics4 = ["yanis2", "wald", "galerie1", "longe"];
+var pics4 = ["yanis2", "wald", "galerie1", "longe", "a & f"];

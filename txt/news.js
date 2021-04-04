@@ -4,7 +4,7 @@ var news_titel = "Aktuelles";
 var news_text1 = "Hier finden Sie akutelle Informationen zu J&S Kursen, Reittagen, Preislisten und weitere News.";
 var news_column1_titel = "J&S Kurse";
 
-var news_column1_text1 = "Freie Unterrichtstunden:<br> Montag 14.00-15.00 Uhr <br>Mittwoch von 15.30-16.30<br>Bei Fragen einfach melden.<br><br>Während den Schulferien können wir Ihnen ab 2-3 Kindern ein individuelles Programm zusammenstellen.<br>Nehmen Sie Kontakt mit uns auf!";
+var news_column1_text1 = "Freie Unterrichtstunden:<br><br> Montag <br>14.00-15.00 Uhr <br><br>Mittwoch 15.30-16.30 Uhr<br>und auf Anfrage<br>Bei Fragen einfach melden.<br><br>Während den Schulferien können wir Ihnen ab 2-3 Kindern ein individuelles Programm zusammenstellen.<br>Nehmen Sie Kontakt mit uns auf!";
 var news_column1_text2 = " ";
 var news_column1_text3 = " ";
 

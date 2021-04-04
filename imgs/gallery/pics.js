@@ -1,5 +1,5 @@
 
-var pics1 = ["tofflan", "kurs", "abend2", "yanis2"];
+var pics1 = ["springen", "kurs", "abend2", "agility", "avenches"];
 
 var pics2 = ["springen", "agility", "hut", "Elin"];
 

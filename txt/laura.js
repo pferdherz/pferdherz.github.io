@@ -20,7 +20,7 @@ var laura_column2_text1 = "Grundausbildung<br>Stangenarbeit<br>Trail<br>Sitzschu
 
 var laura_column2_text2 = "Korrektes Reiten kennt keine Reitweise, ich unterstüzte Sie gerne Reitweise- und Rassenunabhängig.<br> <br> Angebot <br>- Grundausbildung <br>- Rittigkeitsproblemen <br>- beim Muskelaufbau <br>- bei Stangenarbeit <br>- Sitzproblemen <br>- Abwechslung";
 
-var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship und Gymkhana Trainings von den Anfängen bis zum ersten Turnierstart an.";
+var laura_column2_text3 = "Für Westernreiten und alle Interessierten biete ich Trail-, Horsemanship und Gymkhana Trainings von den Anfängen bis zum ersten Turnierstart an. Ein Teils des Materials kann ich aber einer gewissen Teilnehmerzahl mitbringen";
 
 var laura_column2_text4 = "";
 
@@ -32,7 +32,7 @@ var laura_column3_text1 = "Longieren<br>Bodenarbeit<br>Bodenschule";
 
 var laura_column3_text2 = "Bodenarbeit fördert das Vertrauen, das gegenseitige Verständnis und ist eine wichtige Abwechslung zum Reiten.";
 
-var laura_column3_text3 = "Angebot: <br>- Longieren <br>- Kommunikation <br>- Bodenschule <br>- Showmanship <br>- Stangenarbeit <br>- Trail <br>- Gymkhana";
+var laura_column3_text3 = "Angebot: <br>- Longieren <br>- Kommunikation <br>- Bodenschule <br>- Showmanship <br>- Stangenarbeit <br>- in Hand Trail <br>- Gymkhana";
 var laura_column3_text4 = " ";
 var laura_column3_text5 = "Geeignet für den Youngster bis zum Oldie!";
 var laura_column4_titel = "SURE FOOT <sup>&reg;</sup>";

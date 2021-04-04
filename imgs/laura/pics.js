@@ -5,4 +5,4 @@ var laura_column2_pic = "unterricht2";
 
 var laura_column3_pic = "boden2";
 
-var laura_column4_pic = "vally pads";
+var laura_column4_pic = "pads";

@@ -5,4 +5,4 @@ var pics2 = ["tofflan", "brücke", "", "jura"];
 
 var pics3 = ["schnee1", "chiccajura", "chiccaturnier", "zebra"];
 
-var pics4 = ["yanis2", "wald", "galerie1", "longe", "a & f"];
+var pics4 = ["yanis2", "wald", "galerie1", "longe", "anjafiona"];

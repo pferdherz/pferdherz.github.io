@@ -17,7 +17,7 @@ var news_column3_pdf2 = "";
 
 var news_column3_pdf3 = "";
 
-var news_column4_pdf1 = "";
+var news_column4_pdf1 = "Gymkhana Trail Training Schönbühl.JPG";
 
 var news_column4_pdf2 = "";
 

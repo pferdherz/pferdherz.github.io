@@ -38,11 +38,6 @@
         background: #7c3aed;
         color: white;
     }
-
-    #old-site-notice .osn-btn.secondary {
-        background: transparent;
-        border: 1px solid rgba(255,255,255,0.2);
-    }
 </style>
 
 <div id="old-site-notice">
@@ -50,26 +45,6 @@
     <p class="osn-text">Wir sind auf eine neue Website umgezogen mit neuem Inhalt und besserem Design.</p>
 
     <div class="osn-actions">
-        <a id="osn-link" class="osn-btn" href="#" target="_blank" rel="noopener">Neue Seite besuchen</a>
+        <a id="osn-link" class="osn-btn" href="https://www.rlb-reiten.ch" target="_blank" rel="noopener">Neue Seite besuchen</a>
     </div>
 </div>
-
-<script>
-    const OSN_NEW_URL = 'https://rlb-reiten.ch';
-
-    const osnLink = document.getElementById('osn-link');
-    const osnCopy = document.getElementById('osn-copy');
-
-    osnLink.href = OSN_NEW_URL;
-
-    osnCopy.addEventListener('click', async () => {
-        try {
-            await navigator.clipboard.writeText(OSN_NEW_URL);
-            osnCopy.textContent = 'Copied!';
-            setTimeout(() => osnCopy.textContent = 'Copy URL', 2000);
-        } catch (e) {
-            osnCopy.textContent = 'Copy failed';
-            setTimeout(() => osnCopy.textContent = 'Copy URL', 2000);
-        }
-    });
-</script>

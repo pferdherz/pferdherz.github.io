@@ -22,6 +22,7 @@
 		<meta name="msapplication-config" content="/favicon/browserconfig.xml">
 		<meta name="theme-color" content="#ffffff">
 		<script src="pages.js"></script>
+        <script src="includeHTML.js"></script>
 		<script src="txt/news.js"></script>
 		<script src="pdfs/news/pdf.js"></script>
 	</head>
@@ -29,16 +30,17 @@
 		<script>document.title = page_news.toLowerCase() + " - rlb-reiten";</script>
 		<div class="header"></div>
 		<div class="container">
+            <div rlb-include-html="deprecated.html"></div><script>includeHTML();</script>
 			<ul class="navbar">
-				<a href="https://rlb-reiten.ch">
+				<a href="https://pferdherz.github.io/">
 					<img class="navbar-logo" src="imgs/rlb-reiten.png">
 				</a>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch"><script>document.write(page_home);</script></a></li>
-				<li><a class="navbar-now" href="https://rlb-reiten.ch/news.html"><script>document.write(page_news);</script></a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/rahel.html"><script>document.write(page_rahel);</script></a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/laura.html"><script>document.write(page_laura);</script></a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/gallery.html"><script>document.write(page_gallery);</script></a></li>
-				<li><a class="navbar-nav" href="https://rlb-reiten.ch/contact.html"><script>document.write(page_contact);</script></a></li>
+				<li><a class="navbar-nav" href="https://pferdherz.github.io/"><script>document.write(page_home);</script></a></li>
+				<li><a class="navbar-now" href="../news.html"><script>document.write(page_news);</script></a></li>
+				<li><a class="navbar-nav" href="../rahel.html"><script>document.write(page_rahel);</script></a></li>
+				<li><a class="navbar-nav" href="../laura.html"><script>document.write(page_laura);</script></a></li>
+				<li><a class="navbar-nav" href="../gallery.html"><script>document.write(page_gallery);</script></a></li>
+				<li><a class="navbar-nav" href="../contact.html"><script>document.write(page_contact);</script></a></li>
 			</ul>
 			<div class="main">
 				<h1><script>document.write(news_titel);</script></h1>

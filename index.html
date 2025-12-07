@@ -22,6 +22,7 @@
 		<meta name="msapplication-config" content="/favicon/browserconfig.xml">
 		<meta name="theme-color" content="#ffffff">
 		<script src="pages.js"></script>
+		<script src="includeHTML.js"></script>
 		<script src="txt/home.js"></script>
 		<script src="imgs/home/pics.js"></script>
 	</head>
@@ -29,7 +30,8 @@
 		<script>document.title = page_home.toLowerCase() + " - rlb-reiten";</script>
 		<div class="header"></div>
 		<div class="container">
-			<ul class="navbar">
+            <div rlb-include-html="deprecated.html"></div><script>includeHTML();</script>
+            <ul class="navbar">
 				<a href="https://rlb-reiten.ch">
 					<img class="navbar-logo" src="imgs/rlb-reiten.png">
 				</a>
